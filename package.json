@@ -6,6 +6,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegolameira/react-library.git"
+  },
   "exports": {
     ".": {
       "import": "./dist/index.js"
